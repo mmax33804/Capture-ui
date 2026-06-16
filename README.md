@@ -105,4 +105,34 @@
 
 ---
 
-## 🔐 РАЗРЕШЕНИ
+## 🔐 РАЗРЕШЕНИЯ [PERMISSIONS]
+
+- `activeTab` — доступ к активной странице для вычислений координат.
+- `tabs` — управление вкладками и внедрение скриптов.
+- `downloads` — автоматическое сохранение файлов скриншотов.
+- `storage` — сохранение ваших настроек стиля и языка.
+- `<all_urls>` — работа расширения на любых сайтах без исключений.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="600">
+</p>
+
+<div align="center">
+
+### 💻 РАЗРАБОТЧИКИ [CREDITS]
+
+**Maxim Pintea**  
+🔗 <a href="https://www.linkedin.com/in/maxim-pintea-2a794421a/" target="_blank">LinkedIn</a> | 🔗 <a href="https://t.me/Scheptic" target="_blank">Telegram (@Scheptic)</a>
+
+*and*
+
+**Antigravity (AI)**  
+🔗 <a href="https://antigravity.google/" target="_blank">antigravity.google</a>
+
+> *"Built with cold logic and pixel-perfect precision."*
+
+<img src="https://komarev.com/ghpvc/?username=maxim-pintea-ui-capture&color=FF4500&style=for-the-badge&label=VISITS" alt="Profile Views" />
+
+</div>
