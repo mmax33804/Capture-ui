@@ -119,14 +119,14 @@
 
 ### 💻 РАЗРАБОТЧИКИ [CREDITS]
 
-**Maxim Pintea** — ✈️ <a href="https://t.me/Scheptic" target="_blank">Telegram (@Scheptic)</a><br>
+**Maxim** — ✈️ <a href="https://t.me/Scheptic" target="_blank">Telegram (@Scheptic)</a><br>
 **Antigravity (AI)** — 🌌 <a href="https://antigravity.google/" target="_blank">antigravity.google</a>
 
-<br>
+
 
 > *"Built with cold logic and pixel-perfect precision."*
 
-<br>
+
 
 <img src="https://komarev.com/ghpvc/?username=maxim-pintea-ui-capture&color=FF4500&style=for-the-badge&label=VISITS" alt="Profile Views" />
 
