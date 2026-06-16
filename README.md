@@ -1,10 +1,6 @@
 <div align="center">
   
 <p align="center">
-  <img src="assets/banner.png" alt="UI Capture Banner" width="100%">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=40&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=UI+CAPTURE;BRUTALIST+SCREEN+GRABBER;PIXEL-PERFECT+SELECTION" alt="Typing SVG" />
 </p>
 
@@ -123,15 +119,14 @@
 
 ### 💻 РАЗРАБОТЧИКИ [CREDITS]
 
-**Maxim Pintea**  
-🔗 <a href="https://www.linkedin.com/in/maxim-pintea-2a794421a/" target="_blank">LinkedIn</a> | 🔗 <a href="https://t.me/Scheptic" target="_blank">Telegram (@Scheptic)</a>
+**Maxim Pintea** — ✈️ <a href="https://t.me/Scheptic" target="_blank">Telegram (@Scheptic)</a><br>
+**Antigravity (AI)** — 🌌 <a href="https://antigravity.google/" target="_blank">antigravity.google</a>
 
-*and*
-
-**Antigravity (AI)**  
-🔗 <a href="https://antigravity.google/" target="_blank">antigravity.google</a>
+<br>
 
 > *"Built with cold logic and pixel-perfect precision."*
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=maxim-pintea-ui-capture&color=FF4500&style=for-the-badge&label=VISITS" alt="Profile Views" />
 
