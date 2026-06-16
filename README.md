@@ -121,9 +121,10 @@
 
 ### 💻 РАЗРАБОТЧИКИ [CREDITS]
 
-**Maxim** — ✈️ <a href="https://t.me/Scheptic" target="_blank">Telegram (@Scheptic)</a><br>
+**Maxim** — ✈️ <a href="https://t.me/Scheptic" target="_blank">Telegram (@Scheptic)</a>
 **Antigravity (AI)** — 🌌 <a href="https://antigravity.google/" target="_blank">antigravity.google</a>
 
+Этот проект был разработан  **Maxim** — ✈️ <a href="https://t.me/Scheptic" target="_blank">Telegram (@Scheptic)</a>  при поддержке**Antigravity (AI)** — 🌌 <a href="https://antigravity.google/" target="_blank">antigravity.google</a> для генерации и оптимизации кода.
 
 
 > *"Built with cold logic and pixel-perfect precision."*
