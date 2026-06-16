@@ -1,7 +1,16 @@
 <div align="center">
   
-# 🛑 UI CAPTURE 🛑
-**[ БРУТАЛЬНЫЙ ПИКСЕЛЬ-ПЕРФЕКТ ИНСТРУМЕНТ ДЛЯ ЗАХВАТА ЭКРАНА ]**
+<p align="center">
+  <img src="assets/banner.png" alt="UI Capture Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=40&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=UI+CAPTURE;BRUTALIST+SCREEN+GRABBER;PIXEL-PERFECT+SELECTION" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="600">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VERSION-13.0.0-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -14,6 +23,10 @@
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%">
+</p>
 
 ## ⚡ ВОЗМОЖНОСТИ [FEATURES]
 
@@ -36,6 +49,10 @@
 Использует `Device Pixel Ratio` вашего монитора для безупречной `pixel-perfect` обрезки даже на 4K дисплеях.
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%">
+</p>
 
 ## ⚙️ АРХИТЕКТУРА [UNDER THE HOOD]
 
@@ -88,28 +105,4 @@
 
 ---
 
-## 🔐 РАЗРЕШЕНИЯ [PERMISSIONS]
-
-- `activeTab` — доступ к активной странице для вычислений координат.
-- `tabs` — управление вкладками и внедрение скриптов.
-- `downloads` — автоматическое сохранение файлов скриншотов.
-- `storage` — сохранение ваших настроек стиля и языка.
-- `<all_urls>` — работа расширения на любых сайтах без исключений.
-
----
-
-<div align="center">
-
-### 💻 РАЗРАБОТЧИКИ [CREDITS]
-
-**Maxim Pintea**  
-🔗 [LinkedIn](https://www.linkedin.com/in/maxim-pintea-2a794421a/) | 🔗 [Telegram (@Scheptic)](https://t.me/Scheptic)
-
-*and*
-
-**Antigravity (AI)**  
-🔗 [antigravity.google](https://antigravity.google/)
-
-> *"Built with cold logic and pixel-perfect precision."*
-
-</div>
+## 🔐 РАЗРЕШЕНИ
